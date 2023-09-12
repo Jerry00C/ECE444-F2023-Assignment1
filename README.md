@@ -4,3 +4,5 @@
 ![](initCommitScreenshot.png)
 
 ![](mergeScreenshot.png)
+
+![](mergeConflictScreenshot.png)
