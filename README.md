@@ -1,3 +1,6 @@
 # Jiangshan Cui
 
-![](img.png)
+
+![](initCommitScreenshot.png)
+
+![](mergeScreenshot.png)
