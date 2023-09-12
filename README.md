@@ -6,3 +6,5 @@
 ![](mergeScreenshot.png)
 
 ![](mergeConflictScreenshot.png)
+
+![](unitTestScreenshot.png)
